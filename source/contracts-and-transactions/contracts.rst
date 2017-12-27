@@ -318,7 +318,7 @@ available as callable functions in javascript.
 
 The standard way to describe the available functions of a contract is the `ABI
 definition <https://github.com/ethereum/wiki/wiki/Ethereum-Contract-ABI>`_.
-This object is an array which describles the call signature and return values
+This object is an array which describes the call signature and return values
 for each available contract function.
 
 .. code-block:: js
